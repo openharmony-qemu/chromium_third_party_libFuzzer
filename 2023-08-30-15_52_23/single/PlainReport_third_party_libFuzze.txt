@@ -1,0 +1,20 @@
+
+Invalid File Type Total Count: 1
+Name:	Invalid File Type	Content:	binary	Line:	0	Project:	third_party_libFuzze	File:	E:/code/chromium_third_party_libFuzzer/README.OpenSource
+
+License Not Compatible Total Count: 0
+
+License Header Invalid Total Count: 0
+
+Copyright Header Invalid Total Count: 0
+
+No License File Total Count: 1
+Name:	No License File	Content:		Line:	0	Project:	third_party_libFuzze	File:	E:/code/chromium_third_party_libFuzzer
+
+No Readme.OpenSource Total Count: 0
+
+No Readme Total Count: 0
+
+Import Invalid Total Count: 0
+
+Redundant License File Total Count: 0
