@@ -5,6 +5,6 @@
         "License File": "LICENSE.TXT",
         "Version Number": "debe7d2d1982e540fbd6bd78604bf001753f9e74",
         "Upstream URL": "https://chromium.googlesource.com/chromium/llvm-project/compiler-rt/lib/fuzzer.git@debe7d2d1982e540fbd6bd78604bf001753f9e74",
-        "Description": "libFuzzer测试"
+        "Description": "libFuzzer是一个用于覆盖引导模糊测试的库。"
     }
 ]
